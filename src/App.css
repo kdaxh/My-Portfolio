@@ -20,7 +20,7 @@
   --body-font: "Poppins", sans-serif;
 
   /*.5rem = 8 px | 1 rem = 16px*/
-  --big-font-size: 3.5rem;
+  --big-font-size: 3.1rem;
   --h1-font-size: 2.25rem;
   --h2-font-size: 1.5rem;
   --h3-font-size: 1.25rem;
@@ -190,10 +190,18 @@ img {
   }
 }
 
-/* For large devices */
+/* For medium devices */
 @media screen and (max-width: 768px) {
+  body {
+    margin: 0 0 var(--header-height) 0;
+  }
+
   .section {
     padding: 2rem 0 4rem;
+  }
+
+  .section__subtitle {
+    margin-bottom: var(--mb-3);
   }
 }
 
@@ -201,9 +209,10 @@ img {
 
 /* For small devices */
 @media screen and (max-width: 350px) {
-  :root{
+  :root {
     --big-font-size: 2.25rem;
   }
+
   .container {
     margin-left: var(--mb-1);
     margin-right: var(--mb-1);
