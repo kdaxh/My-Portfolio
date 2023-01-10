@@ -64,8 +64,7 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">BEng. in Electronics
-                                    and Telecommunications Engineering</h3>
+                                <h3 className="qualification__title">BEng. in ETE</h3>
                                 <span className="qualification__subtitle">
                                     DIT - Tanzania</span>
                                 <div className="qualification__calendar">
@@ -77,8 +76,7 @@ const Qualification = () => {
 
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">OD in Electronics
-                                    and Telecommunications Engineering</h3>
+                                <h3 className="qualification__title">Ordinary Diploma in ETE</h3>
                                 <span className="qualification__subtitle">
                                     ATC - Tanzania</span>
                                 <div className="qualification__calendar">
@@ -172,8 +170,6 @@ const Qualification = () => {
                 </div>
             </div>
         </section >
-
-
     );
 };
 
