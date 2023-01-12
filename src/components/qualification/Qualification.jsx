@@ -9,7 +9,7 @@ const Qualification = () => {
     };
 
     return (
-        <section className="qualification section">
+        <section className="qualification section" id="portfolio">
             <h2 className="section__title">Qualification</h2>
             <span className="section__subtitle">My personal Journey</span>
 
@@ -40,7 +40,7 @@ const Qualification = () => {
                         : "qualification__content"}>
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">MSc in Data Science</h3>
+                                <h3 className="qualification__title">Master of Science in Data Science</h3>
                                 <span className="qualification__subtitle">
                                     UDSM - Tanzania</span>
                                 <div className="qualification__calendar">
@@ -64,7 +64,7 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">BEng. in ETE</h3>
+                                <h3 className="qualification__title">Bachelor of Engineering in ETE</h3>
                                 <span className="qualification__subtitle">
                                     DIT - Tanzania</span>
                                 <div className="qualification__calendar">
