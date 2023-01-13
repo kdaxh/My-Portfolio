@@ -1,7 +1,8 @@
 import React from "react";
 import './skills.css';
-import Frontend from "./Frontend";
-import Backend from "./Backend";
+import Datascience from "./Datascience";
+import Fullstack from "./Fullstack";
+import EandT from "./EandT";
 
 const Skills = () => {
     return (
@@ -11,8 +12,9 @@ const Skills = () => {
 
 
             <div className="skills__container container grid">
-                <Frontend />
-                <Backend />
+                <Datascience />
+                <Fullstack />
+                <EandT />
             </div>
         </section>
     );

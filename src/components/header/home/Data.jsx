@@ -55,10 +55,8 @@ const Data = () => {
                     ></path>
                 </svg>
             </h1>
-            <h3 className="home__subtitle">Data scientist</h3>
-            <p className="home__description">I am a highly-motivated and competent collaborator who
-                possesses in-depth knowledge and insight within this thriving
-                industry of Data science.</p>
+            <h3 className="home__subtitle">Data scientist | Fullstack developer | E&T Engineer</h3>
+            <p className="home__description">I am a highly-motivated and competent collaborator.</p>
 
             <a href="#contact" className="button button--flex">
                 Say Hello
