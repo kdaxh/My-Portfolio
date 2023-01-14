@@ -36,7 +36,7 @@ const Services = () => {
 
                             <h3 className="services__modal-title">Data Scientist</h3>
                             <p className="services__modal-description">
-                                With 3 years of experience, most tasks I've done are:
+                                With more than 3 years of experience, most tasks I've done are:
                             </p>
 
                             <ul className="srvices__modal-services grid">
@@ -113,12 +113,9 @@ const Services = () => {
                                 className="uil uil-times
                             services__modal-close"></i>
 
-                            <h3 className="services__modal-title">Ui/Ux Designer</h3>
-                            <p
-                                className="services__modal-description">Service
-                                with more than 3 years of experience.
-                                Providing quality work to clients and
-                                companies.
+                            <h3 className="services__modal-title">Full stack Developer</h3>
+                            <p className="services__modal-description">
+                                With more than 7 years of experience, most tasks I've done are:
                             </p>
 
                             <ul className="srvices__modal-services grid">
@@ -126,7 +123,7 @@ const Services = () => {
                                     <i className="uil uil-check-circle
                                     services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I develop the user interface.
+                                        Designing client-side and server-side architecture.
                                     </p>
                                 </li>
 
@@ -134,7 +131,7 @@ const Services = () => {
                                     <i className="uil uil-check-circle
                                     services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Web page development.
+                                        Building visual appealing design of applications' UIs.
                                     </p>
                                 </li>
 
@@ -142,7 +139,7 @@ const Services = () => {
                                     <i className="uil uil-check-circle
                                     services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I create ux element interactions.
+                                        Developing and managing well-functioning databases and applications.
                                     </p>
                                 </li>
 
@@ -150,7 +147,7 @@ const Services = () => {
                                     <i className="uil uil-check-circle
                                     services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I position your company brand.
+                                        Writing effective APIs.
                                     </p>
                                 </li>
 
@@ -158,7 +155,23 @@ const Services = () => {
                                     <i className="uil uil-check-circle
                                     services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Design and mockups of products for companies.
+                                        Testing software to ensure responsiveness and efficiency.
+                                    </p>
+                                </li>
+
+                                <li className="services__modal-service">
+                                    <i className="uil uil-check-circle
+                                    services__modal-icon"></i>
+                                    <p className="services__modal-info">
+                                        Troubleshooting, debuging and upgrading software.
+                                    </p>
+                                </li>
+
+                                <li className="services__modal-service">
+                                    <i className="uil uil-check-circle
+                                    services__modal-icon"></i>
+                                    <p className="services__modal-info">
+                                        Creatinig security and data protection settings.
                                     </p>
                                 </li>
                             </ul>
@@ -186,13 +199,11 @@ const Services = () => {
                             <i onClick={() => toggleTab(0)} className="uil uil-times
                             services__modal-close"></i>
 
-                            <h3 className="services__modal-title">Visual
-                                Designer</h3>
-                            <p
-                                className="services__modal-description">Service
-                                with more than 3 years of experience.
-                                Providing quality work to clients and
-                                companies.
+                            <h3 className="services__modal-title">
+                                Electronics & Telecommunications Engineer
+                            </h3>
+                            <p className="services__modal-description">
+                                With more than 6 years of experience, most tasks I've done are:
                             </p>
 
                             <ul className="srvices__modal-services grid">
