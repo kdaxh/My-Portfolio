@@ -45,7 +45,7 @@ const Footer = () => {
                 </div>
 
                 <span className="footer__copy">
-                    &#169;2023 KDash, All rights reserved.
+                    &#169;2023 Kilala Dashina, All rights reserved.
                 </span>
             </div>
         </div>
