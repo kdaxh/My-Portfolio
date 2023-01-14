@@ -36,7 +36,7 @@ const Services = () => {
 
                             <h3 className="services__modal-title">Data Scientist</h3>
                             <p className="services__modal-description">
-                                ABC
+                                With 3 years of experience, most tasks I've done are:
                             </p>
 
                             <ul className="srvices__modal-services grid">
@@ -44,7 +44,7 @@ const Services = () => {
                                     <i className="uil uil-check-circle
                                     services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I develop the user interface.
+                                        Acquiring data, processing and cleaning the data.
                                     </p>
                                 </li>
 
@@ -52,7 +52,7 @@ const Services = () => {
                                     <i className="uil uil-check-circle
                                     services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Web page development.
+                                        Integrating and storing data.
                                     </p>
                                 </li>
 
@@ -60,7 +60,7 @@ const Services = () => {
                                     <i className="uil uil-check-circle
                                     services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I create ux element interactions.
+                                        Initial data investigation and exploratory data analysis.
                                     </p>
                                 </li>
 
@@ -68,7 +68,7 @@ const Services = () => {
                                     <i className="uil uil-check-circle
                                     services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I position your company brand.
+                                        Choosing one or more potential models and algorithms.
                                     </p>
                                 </li>
 
@@ -76,7 +76,15 @@ const Services = () => {
                                     <i className="uil uil-check-circle
                                     services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Design and mockups of products for companies.
+                                        Applying techniques of machine learning, statistical modeling, and artificial intelligence.
+                                    </p>
+                                </li>
+
+                                <li className="services__modal-service">
+                                    <i className="uil uil-check-circle
+                                    services__modal-icon"></i>
+                                    <p className="services__modal-info">
+                                        Presenting final results and making adjustments based on feedback
                                     </p>
                                 </li>
                             </ul>
