@@ -11,7 +11,7 @@ const Backend = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className="skills__name">Network administration</h3>
+                            <h3 className="skills__name">VoIP</h3>
                         </div>
                     </div>
 
@@ -19,7 +19,7 @@ const Backend = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className="skills__name">Network administration</h3>
+                            <h3 className="skills__name">System analysis</h3>
                         </div>
                     </div>
 
@@ -27,7 +27,7 @@ const Backend = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className="skills__name">Network administration</h3>
+                            <h3 className="skills__name">Troubleshooting</h3>
                         </div>
                     </div>
 
@@ -35,7 +35,7 @@ const Backend = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className="skills__name">Network administration</h3>
+                            <h3 className="skills__name">Technicak support</h3>
                         </div>
                     </div>
 
@@ -43,7 +43,7 @@ const Backend = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className="skills__name">Network administration</h3>
+                            <h3 className="skills__name">Time management</h3>
                         </div>
                     </div>
                 </div>
@@ -53,7 +53,7 @@ const Backend = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className="skills__name">Network administration</h3>
+                            <h3 className="skills__name">Networking</h3>
                         </div>
                     </div>
 
@@ -61,7 +61,7 @@ const Backend = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className="skills__name">Network administration</h3>
+                            <h3 className="skills__name">Project management</h3>
                             </div>
                     </div>
 
@@ -69,7 +69,7 @@ const Backend = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className="skills__name">Network administration</h3>
+                            <h3 className="skills__name">Cisco</h3>
                             </div>
                     </div>
 
@@ -77,7 +77,7 @@ const Backend = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className="skills__name">Network administration</h3>
+                            <h3 className="skills__name">LAN/WAN</h3>
                             </div>
                     </div>
 
@@ -85,7 +85,7 @@ const Backend = () => {
                         <i class='bx bx-badge-check'></i>
 
                         <div>
-                            <h3 className="skills__name">Network administration</h3>
+                            <h3 className="skills__name">Analytical skills</h3>
                             </div>
                     </div>
                 </div>
