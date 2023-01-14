@@ -12,8 +12,7 @@ const Frontend = () => {
 
                         <div>
                             <h3 className="skills__name">HTML</h3>
-                            <span className="skills__level">Intermediate</span>
-                        </div>
+                            </div>
                     </div>
 
                     <div className="skills__data">
@@ -21,8 +20,7 @@ const Frontend = () => {
 
                         <div>
                             <h3 className="skills__name">CSS</h3>
-                            <span className="skills__level">Intermediate</span>
-                        </div>
+                            </div>
                     </div>
 
                     <div className="skills__data">
@@ -30,8 +28,7 @@ const Frontend = () => {
 
                         <div>
                             <h3 className="skills__name">JavaScript</h3>
-                            <span className="skills__level">Intermediate</span>
-                        </div>
+                            </div>
                     </div>
 
                     <div className="skills__data">
@@ -39,8 +36,7 @@ const Frontend = () => {
 
                         <div>
                             <h3 className="skills__name">Node JS</h3>
-                            <span className="skills__level">Intermediate</span>
-                        </div>
+                            </div>
                     </div>
 
                     <div className="skills__data">
@@ -48,8 +44,7 @@ const Frontend = () => {
 
                         <div>
                             <h3 className="skills__name">React</h3>
-                            <span className="skills__level">Intermediate</span>
-                        </div>
+                            </div>
                     </div>
                 </div>
 
@@ -59,7 +54,6 @@ const Frontend = () => {
 
                         <div>
                             <h3 className="skills__name">Python</h3>
-                            <span className="skills__level">Inetrmediate</span>
                         </div>
                     </div>
 
@@ -68,7 +62,6 @@ const Frontend = () => {
 
                         <div>
                             <h3 className="skills__name">MySQL</h3>
-                            <span className="skills__level">Inetrmediate</span>
                         </div>
                     </div>
 
@@ -77,7 +70,6 @@ const Frontend = () => {
 
                         <div>
                             <h3 className="skills__name">PHP</h3>
-                            <span className="skills__level">Inetrmediate</span>
                         </div>
                     </div>
 
@@ -86,7 +78,6 @@ const Frontend = () => {
 
                         <div>
                             <h3 className="skills__name">SQL</h3>
-                            <span className="skills__level">Inetrmediate</span>
                         </div>
                     </div>
 
@@ -95,7 +86,6 @@ const Frontend = () => {
 
                         <div>
                             <h3 className="skills__name">Problem solving</h3>
-                            <span className="skills__level">Inetrmediate</span>
                         </div>
                     </div>
                 </div>
