@@ -34,12 +34,9 @@ const Services = () => {
                             <i onClick={() => toggleTab(0)} className="uil 
                             uil-times services__modal-close"></i>
 
-                            <h3 className="services__modal-title">Product Designer</h3>
-                            <p
-                                className="services__modal-description">Service
-                                with more than 3 years of experience.
-                                Providing quality work to clients and
-                                companies.
+                            <h3 className="services__modal-title">Data Scientist</h3>
+                            <p className="services__modal-description">
+                                ABC
                             </p>
 
                             <ul className="srvices__modal-services grid">
