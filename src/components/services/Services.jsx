@@ -211,7 +211,7 @@ const Services = () => {
                                     <i className="uil uil-check-circle
                                     services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I develop the user interface.
+                                        Preventive maintenance.
                                     </p>
                                 </li>
 
@@ -219,7 +219,7 @@ const Services = () => {
                                     <i className="uil uil-check-circle
                                     services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Web page development.
+                                        Alarm monitoring and handling.
                                     </p>
                                 </li>
 
@@ -227,7 +227,7 @@ const Services = () => {
                                     <i className="uil uil-check-circle
                                     services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I create ux element interactions.
+                                        Network administration.
                                     </p>
                                 </li>
 
@@ -235,7 +235,7 @@ const Services = () => {
                                     <i className="uil uil-check-circle
                                     services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        I position your company brand.
+                                        Communication system installations.
                                     </p>
                                 </li>
 
@@ -243,7 +243,7 @@ const Services = () => {
                                     <i className="uil uil-check-circle
                                     services__modal-icon"></i>
                                     <p className="services__modal-info">
-                                        Design and mockups of products for companies.
+                                    Designing, developing, and testing of equipment used in electronic systems.
                                     </p>
                                 </li>
                             </ul>
