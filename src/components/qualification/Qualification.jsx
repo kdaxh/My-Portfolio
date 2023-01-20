@@ -9,8 +9,8 @@ const Qualification = () => {
     };
 
     return (
-        <section className="qualification section" id="portfolio">
-            <h2 className="section__title">Qualification</h2>
+        <section className="qualification section" id="qualification">
+            <h2 className="section__title">Qualifications</h2>
             <span className="section__subtitle">My personal Journey</span>
 
             <div className="qualification__container container">
@@ -96,7 +96,6 @@ const Qualification = () => {
 
                             <div>
                                 <span className="qualification__rounder"></span>
-                                <span className="qualification__line"></span>
                             </div>
 
                             <div>
@@ -163,7 +162,6 @@ const Qualification = () => {
 
                             <div>
                                 <span className="qualification__rounder"></span>
-                                <span className="qualification__line"></span>
                             </div>
                         </div>
                     </div>
