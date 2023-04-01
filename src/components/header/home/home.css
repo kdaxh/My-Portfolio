@@ -1,3 +1,10 @@
+.home {
+    background-image: url(../../../assets/bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
 .home__container {
     row-gap: 7rem;
 }
@@ -119,6 +126,13 @@
 /*============== BREAKPOINTS =============*/
 /* For large devices */
 @media screen and (max-width: 992px) {
+    .home {
+        background-image: url(../../../assets/bg_phone.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
     .home__content {
         grid-template-columns: 100px repeat(2, 1fr);
         column-gap: 1.25rem;
