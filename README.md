@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-In the project directory, you can run:
+In the project directory, run:
 
 ### `npm start`
 
