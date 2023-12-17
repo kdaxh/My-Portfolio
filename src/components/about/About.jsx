@@ -1,7 +1,7 @@
 import React from "react";
 import './about.css';
 import AboutImg from "../../assets/about.png";
-import CV from "../../assets/KDash-CV.pdf";
+import CV from "../../assets/Kilala Dashina - CV.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -16,10 +16,9 @@ const About = () => {
                 <div className="about__data">
                     <Info />
 
-                    <p className="about__description">I can bring positivity, support, and a
-                        creative mindset to any team. I pride myself on taking
-                        ownership of challenging problems and maintaining high
-                        standards towards achieving your organizational objectives.</p>
+                    <p className="about__description">I am a highly-motivated and competent collaborator
+                        with domain knowledge in data analysis, machine learning, artificial intelligence,
+                        computer science, and telecommunications.</p>
 
                     <a download="" href={CV} className="button button--flex">
                         Download CV

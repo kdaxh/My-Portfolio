@@ -115,12 +115,12 @@ const Qualification = () => {
                         : "qualification__content"}>
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Intern - Computer programmer</h3>
+                                <h3 className="qualification__title">Sales Analyst</h3>
                                 <span className="qualification__subtitle">
-                                    eGA - Tanzania</span>
+                                    Knauf Gypsum Tanzania Ltd.</span>
                                 <div className="qualification__calendar">
                                     <i className="uil uil-calendar-alt"></i>
-                                    May 2020 - Nov 2020
+                                    Dec 2023 to Present
                                 </div>
                             </div>
 
@@ -139,7 +139,43 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">Intern - Technician</h3>
+                                <h3 className="qualification__title">Solution Developer (Intern)</h3>
+                                <span className="qualification__subtitle">
+                                    Camara Education Tanzania</span>
+                                <div className="qualification__calendar">
+                                    <i className="uil uil-calendar-alt"></i>
+                                    Nov 2023 to Dec 2023
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className="qualification__data">
+                            <div>
+                                <h3 className="qualification__title">Computer programmer (Intern)</h3>
+                                <span className="qualification__subtitle">
+                                    eGA - Tanzania</span>
+                                <div className="qualification__calendar">
+                                    <i className="uil uil-calendar-alt"></i>
+                                    May 2020 to Nov 2020
+                                </div>
+                            </div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+                        </div>
+
+                        <div className="qualification__data">
+                            <div></div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+
+                            <div>
+                                <h3 className="qualification__title">Technician (Intern)</h3>
                                 <span className="qualification__subtitle">
                                     Airtel Tanzania Limited - Tanzania</span>
                                 <div className="qualification__calendar">
@@ -151,12 +187,12 @@ const Qualification = () => {
 
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Intern - Data enumerator</h3>
+                                <h3 className="qualification__title">Data enumerator (Intern)</h3>
                                 <span className="qualification__subtitle">
                                     PCI - Tanzania</span>
                                 <div className="qualification__calendar">
                                     <i className="uil uil-calendar-alt"></i>
-                                    May 2018 - Jan 2019
+                                    May 2018 to Jan 2019
                                 </div>
                             </div>
 
